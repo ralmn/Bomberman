@@ -1,0 +1,19 @@
+name: BomberCraft
+
+main: com.bukkit.HubertNNN.BomberCraft.BomberCraft
+
+version: 0.8.2
+
+author: [HubertNNN, ralmn]
+
+description: Bomberman game.
+
+softdepend: [Permissions, iConomy]
+
+commands:
+  bombercraft:
+    description: Not used
+    usage: /bombercraft
+  bc:
+    description: Not used
+    usage: /bc
